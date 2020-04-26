@@ -1,2 +1,5 @@
 # hello-word
-Just another repository
+
+Hello word!
+
+My name is Edimichael and I like tecnologie and team work. ;D
